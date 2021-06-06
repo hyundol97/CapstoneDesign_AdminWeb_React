@@ -13,7 +13,7 @@ ___
 
 -npm install axios
 
--npm install sematic-ui-react
+-npm install semantic-ui-react semantic-ui-css
 
 
 
