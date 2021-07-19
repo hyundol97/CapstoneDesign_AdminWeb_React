@@ -6,12 +6,12 @@ import axios from 'axios';
 import firebase from 'firebase'
 
 var firebaseConfig = {
-    apiKey: "AIzaSyCf6G8TDQC4gML05q9VqajOnHlF9T2x66I",
+    apiKey: "**",
     authDomain: "userapp-c55de.firebaseapp.com",
     projectId: "userapp-c55de",
     storageBucket: "userapp-c55de.appspot.com",
     messagingSenderId: "599352656145",
-    appId: "1:599352656145:web:a7a442a399dd01e726ccb0"
+    appId: "**"
 };
 // Initialize Firebase
 if (!firebase.apps.length) {
